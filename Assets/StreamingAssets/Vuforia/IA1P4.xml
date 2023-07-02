@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Sistemas" size="1.000000 0.708108" />
+    <ImageTarget name="Quimica" size="1.000000 1.292727" />
+    <ImageTarget name="Industrial" size="1.000000 0.826827" />
+    <ImageTarget name="Electronica" size="1.000000 1.502732" />
+    <ImageTarget name="Civil" size="1.000000 0.782927" />
+  </Tracking>
+</QCARConfig>
